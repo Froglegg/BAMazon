@@ -1,4 +1,5 @@
 #BAMazon
+
 ##A node.js CLI application that uses MySQL for buying stuff on the interwebs.
 
 ###Setup
