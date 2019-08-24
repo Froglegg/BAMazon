@@ -2,6 +2,8 @@
 
 ##A node.js CLI application that uses MySQL for buying stuff on the interwebs.
 
+![](bamazonGif.gif)
+
 ###Setup
 1) Run `npm install` to install mysql and inquirer node modules.
 2) Use `seeds.sql` to build your SQL table in Workbench (or use some other backend langauge to create the table in an apache server, etc.)
